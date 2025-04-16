@@ -1,0 +1,6 @@
+[
+    {"src" : "/assets/image01.jpg", "title" : "img1", "dis" : "이미지01"},
+    {"src" : "/assets/image02.jpg", "title" : "img2", "dis" : "이미지02"},
+    {"src" : "/assets/image03.jpg", "title" : "img3", "dis" : "이미지03"},
+    {"src" : "/assets/image04.jpg", "title" : "img4", "dis" : "이미지04"}
+]
